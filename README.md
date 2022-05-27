@@ -4,7 +4,7 @@
 
 Millions of people scour e-commerce websites daily. A small fraction of them intend to make a purchase, while others are only window shopping. It is critical for businesses convert these visitors into customers.
 
-This project focused on converting visitors with purchasing intent into customers. Among the several strategies to convert them are: showing personalized content to them; offering discounts and offers; and sending reminders about products they have viewed.
+This project focuses on converting visitors with purchasing intent into customers. Among the several strategies to convert them are: showing personalized content to them; offering discounts and offers; and sending reminders about products they have viewed.
 
 # Table of Contents
 - <a href='#aim'>Aim</a>
